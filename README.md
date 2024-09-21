@@ -1,3 +1,5 @@
+[![CI](https://github.com/drewsephski/Clerk-with-NextJS/actions/workflows/CI.yml/badge.svg)](https://github.com/drewsephski/Clerk-with-NextJS/actions/workflows/CI.yml)
+
 # Boilerplate and Starter for Next.js 14+, Tailwind CSS 3.4, and TypeScript.
 
 <p align="center">
